@@ -17,5 +17,5 @@
 ## Map Activity
 <img src="https://github.com/a-darrazi/darrazi_anas_exam_M1_IIBDCC_23/blob/master/captures/map.jpg" width="25%">
 
-
+La vidéo de démo est dans les fichiers (demo-video.mp4)
 
